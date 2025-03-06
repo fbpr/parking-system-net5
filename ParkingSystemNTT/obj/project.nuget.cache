@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ky8SVSpwMxU=",
+  "success": true,
+  "projectFilePath": "D:\\BTB\\.NET\\ParkingSystemNTT\\ParkingSystemNTT\\ParkingSystemNTT.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\BTB\\.NET\\ParkingSystemNTT\\ParkingSystemNTT\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
